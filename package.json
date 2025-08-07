@@ -1,0 +1,20 @@
+{
+  "name": "retell-vercel-integration",
+  "version": "1.0.0",
+  "description": "Vercel serverless function for Retell AI integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["retell", "ai", "voice", "vercel", "serverless"],
+  "author": "Your Name",
+  "license": "MIT"
+}
+
